@@ -22,4 +22,3 @@ D:\File\GitHub\ConvertExpression\ConvertExpression\obj\Debug\net5.0-windows\ref\
 D:\File\GitHub\ConvertExpression\ConvertExpression\obj\Debug\net5.0-windows\ConvertExpression.pdb
 D:\File\GitHub\ConvertExpression\ConvertExpression\obj\Debug\net5.0-windows\ConvertExpression.genruntimeconfig.cache
 D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Debug\net5.0-windows\ConvertExpressionLib.pdb
-D:\File\GitHub\ConvertExpression\ConvertExpression\obj\Debug\net5.0-windows\ConvertExpression.csproj.CopyComplete

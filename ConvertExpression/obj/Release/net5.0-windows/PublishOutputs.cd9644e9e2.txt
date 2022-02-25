@@ -1,0 +1,7 @@
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpression.exe
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpression.dll
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpression.deps.json
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpression.runtimeconfig.json
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpression.pdb
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpressionLib.dll
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\net5.0-windows\publish\ConvertExpressionLib.pdb

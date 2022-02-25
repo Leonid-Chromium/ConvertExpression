@@ -1,0 +1,7 @@
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpression.exe
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpression.dll
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpression.deps.json
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpression.runtimeconfig.json
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpression.pdb
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpressionLib.dll
+D:\File\GitHub\ConvertExpression\ConvertExpression\bin\Release\TYT\ConvertExpressionLib.pdb
